@@ -1,2 +1,2 @@
 #!/bin/bash
-we use cd etc/passwd
+we use cat /1etc/passwd
